@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "strawberry",
+    "price": 45.23,
+    "description": "this is a nice strawberry",
+    "location" : "moscow",
+    "category" : "fruits"
+  },
+  {
+    "id": "2",
+    "name": "lemon",
+    "price": 4.23,
+    "description": "this is a sour lemon",
+    "location" : "moscow",
+    "category" : "fruits"
+  },
+  {
+    "id": "3",
+    "name": "mellow",
+    "price": 24.23,
+    "description": "this is a sweet mellow",
+    "location" : "toronto",
+    "category" : "vegetables"
+  },
+  {
+    "id": "4",
+    "name": "orange",
+    "price": 14.23,
+    "description": "this is a stale orange",
+    "location" : "toronto",
+    "category" : "fruits"
+  },
+  {
+    "id": "5",
+    "name": "banana",
+    "price": 54.23,
+    "description": "this is a cheap banana",
+    "location" : "new york",
+    "category" : "vegetables"
+  },
+  {
+    "id": "6",
+    "name": "cherry",
+    "price": 12.23,
+    "description": "this is a very expensive cherry",
+    "location" : "moscow",
+    "category" : "fruits"
+  }
+]
